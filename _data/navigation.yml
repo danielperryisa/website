@@ -1,0 +1,19 @@
+#
+# Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
+#
+# Configuration: Add to _config.yml
+#
+# How to use:
+# {{ site.data.navigation.nav.<var_name> | default: 'text' }}
+
+# English (default)
+# -----------------
+nav:
+  - title: "Murderous"
+    section: murderous
+  - title: "Racist"
+    section: racist
+  - title: "Pedophile"
+    section: pedophile
+  - title: "Resources"
+    page: resources

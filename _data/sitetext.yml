@@ -1,0 +1,31 @@
+#
+# Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
+#
+# Configuration: Add to _config.yml
+#
+# How to use:
+# {{ site.data.ui-text.<var_name> | default: 'text' }}
+
+# English (default)
+# -----------------
+
+murderous:
+  title: "Murderous"
+  text: "Daniel Perry murdered a man with premeditation"
+  body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+  section: murderous
+
+racist:
+  title: "Racist"
+  text: "Daniel Perry is a self-admitted racist"
+  body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+  section: racist
+
+pedophile:
+  title: "Pedophile"
+  text: "Daniel Perry grooms minors"
+  body: "Daniel Perry has a history of attempting to sexually groom minors. The court filing stated that Perry (as a man well into his thirties) searched on Safari for, among other terms “good chats to meet young girls” and “good chats to meet young girls on kik”.
+
+
+  Pages 66-68 of the filing contain a transcription of a conversation he had over text with one such minor (referred to as “Yuno Iazuki”), of which I've included screenshots below."
+  section: pedophile

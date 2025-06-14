@@ -1,0 +1,3 @@
+{% assign file_name = include.file %}
+{% assign alt_text = include.alt %}
+<a href="/assets/evidence/{{ file_name | replace: '.jpg', '.png' }}"><img style='border:1px solid #ce1126' src="/assets/evidence/{{ file_name }}" alt="{{ alt_text }}" width="100%" /></a>
